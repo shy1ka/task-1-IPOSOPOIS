@@ -20,3 +20,5 @@
 - Theme - Oceanic Next (опционально)
 - vscode-icons
 - Node.js https://nodejs.org/en/
+- [SASS/SCSS компилятор Scout-App](https://scout-app.io/)
+- [Компилятор Koala](http://koala-app.com/)
